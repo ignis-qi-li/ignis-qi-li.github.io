@@ -13,9 +13,9 @@ title                    : "Qi Li / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Qi Li"
 description              : &description "personal description"
-url                      : https://richard-qi-li.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "richard-qi-li/richard-qi-li.github.io"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,13 +23,13 @@ repository               : "richard-qi-li/richard-qi-li.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Qi Li"
+  name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Post-doctoral research fellow"
-  location         : "Kingston"
-  employer         : "Queen's University"
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Red Brick University"
   uri              : # URL
-  email            : "qi.li@queensu.ca" 
+  email            : "none@example.org" 
 
   # Academic websites
   academia         : # URL
